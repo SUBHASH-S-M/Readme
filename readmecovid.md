@@ -1,7 +1,7 @@
 # Covid-19-Data-Analysis: 
 
 ## Table of Content
-  * [Description_of_data](#Description_of_data)
+  * [Description_of_data](#Description-of-data)
   * [Overview](#overview)
   * [DataSet](#Dataset)
   * [Installation](#installation)
@@ -11,7 +11,7 @@
   * [Future scope of project](#future-scope)
 
 
-## Description_of_data
+## Description of data
 
 * sno	- Serial Number
 * state_name - the state that particular case thats belongs to	
