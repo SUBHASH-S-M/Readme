@@ -58,8 +58,8 @@ The Code is written in Python 3.7 If you don't have Python installed you can fin
 * [Pandas](https://pandas.pydata.org/)
 * [Numpy](https://numpy.org/)
 * [Matplotlib](https://matplotlib.org/) 
-* [Seaborn](seaborn.pydata.org)
-* [Sklearn](scikit-learn.org)
+* [Seaborn](https://seaborn.pydata.org/)
+* [Sklearn](https://scikit-learn.org/stable/)
 ## Bug/Feature Request
 
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/Abilashkanagasabai/Mobile-Price-Prediction/issues) here by including your search query and the expected result
