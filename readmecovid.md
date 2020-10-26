@@ -32,16 +32,15 @@ In this Project,we are doing Corona Virus Live Tracking For India
 You can just read the data set as json format from this [link](https://www.mohfw.gov.in/data/datanew.json)
 
 ## Motivation
-After Learning all the concepts it is important to work on application (real world application) to actually make a difference.This is aim of this project
+* Timely project , project for the time
+* After Learning all the concepts it is important to work on application (real world application) to actually make a difference.This is aim of this project
 
 ## Installation
 The Code is written in Python 3.7 If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository.
 
 ## Directory Tree 
 ```
-├── Mobile Price Range Prediction.ipynb
-├── test.csv
-├── train.csv
+├── Covid 19 Analysis.ipynb
 
 ```
 
@@ -51,8 +50,8 @@ The Code is written in Python 3.7 If you don't have Python installed you can fin
 * [Pandas](https://pandas.pydata.org/)
 * [Numpy](https://numpy.org/)
 * [Matplotlib](https://matplotlib.org/) 
-* [Seaborn](seaborn.pydata.org)
-* [Sklearn](scikit-learn.org)
+* [Folium](https://python-visualization.github.io/folium/#:~:text=folium%20makes%20it%20easy%20to,as%20markers%20on%20the%20map.)
+
 ## Bug/Feature Request
 
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/Abilashkanagasabai/Mobile-Price-Prediction/issues) here by including your search query and the expected result
